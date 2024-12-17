@@ -1,3 +1,5 @@
+CODES IN COLAB :
+https://colab.research.google.com/drive/18SS6Qyi6q73RVdcX3hn-LKxkrK-durMa?usp=sharing <BR><BR><BR>
 model weights for shufflenet_v2_x0_5 Guided : 
 https://drive.google.com/file/d/1g0ddDWK81IxOPg0gjlT3QrjiWSx2FZUU/view?usp=sharing <BR><BR>
 model weights for shufflenet_v2_x0_5 not Guided : 
