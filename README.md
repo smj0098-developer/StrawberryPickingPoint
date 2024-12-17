@@ -16,5 +16,5 @@ model weights for MobileNetV3 Guided :
 https://drive.google.com/file/d/1ScMvwsXOlQBBsIEjWy-gofyc0TaZ1Phn/view?usp=sharing <BR><BR>
 model weights for MobileNetV3 not Guided : 
 https://drive.google.com/file/d/1sadtBmRhi7szc5B4tVKmC74yHr5y8mBA/view?usp=sharing <BR><BR>
-Roi_heads is a dependancy: 
+Roi_heads is a dependency: 
 https://drive.google.com/file/d/1jjmVe2tds5AkiAYsm5JJye0AD5G-Y-Fm/view <BR><BR>
